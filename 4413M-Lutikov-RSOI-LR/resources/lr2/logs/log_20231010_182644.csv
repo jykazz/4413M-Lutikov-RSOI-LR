@@ -1,0 +1,10 @@
+pow,20231010T18:24:14,2.042738
+send_back_binary,20231010T18:24:28,2.876428
+color_inversion,20231010T18:24:55,17.082811
+black_list_check,20231010T18:25:06,2.030472
+black_list_check,20231010T18:25:17,2.049222
+black_list_check_by_name_and_birthday,20231010T18:25:27,2.051187
+black_list_check_by_name_and_birthday,20231010T18:25:37,2.037841
+color_inversion,20231010T18:26:04,18.520612
+color_inversion,20231010T18:26:20,5.933593
+binarize_by_threshold,20231010T18:26:44,14.953648

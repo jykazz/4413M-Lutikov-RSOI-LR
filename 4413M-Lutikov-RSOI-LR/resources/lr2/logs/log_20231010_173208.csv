@@ -1,0 +1,10 @@
+pow,2023-10-10 17:30:16,2.048621s
+send_back_binary,2023-10-10 17:30:27,2.636824s
+color_inversion,2023-10-10 17:30:49,16.229934s
+black_list_check,2023-10-10 17:30:56,2.096957s
+black_list_check,2023-10-10 17:31:03,2.04234s
+black_list_check_by_name_and_birthday,2023-10-10 17:31:09,2.014567s
+black_list_check_by_name_and_birthday,2023-10-10 17:31:15,2.058705s
+color_inversion,2023-10-10 17:31:36,16.221857s
+color_inversion,2023-10-10 17:31:47,6.028823s
+binarize_by_threshold,2023-10-10 17:32:08,15.56538s
